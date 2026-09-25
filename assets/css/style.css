@@ -155,7 +155,7 @@ ol {
 }
 
 .nav-toggle {
-  display: flex;
+  display: none;
   flex-direction: column;
   justify-content: space-between;
   width: 1.75rem;
@@ -207,8 +207,9 @@ ol {
 
 /* Mobile nav */
 @media (max-width: 768px) {
-  .nav-toggle {
+.nav-toggle {
     display: flex;
+    margin-left: auto;
   }
 
   .nav-links {
