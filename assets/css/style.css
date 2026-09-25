@@ -91,7 +91,7 @@ ol {
   font-weight: var(--font-weight-medium);
   line-height: 1;
   padding: var(--space-sm) var(--space-lg);
-  border-radius: var(--border-radius-md);
+  border-radius: var(--border-radius-sm);
   border: 1px solid transparent;
   transition: var(--transition-fast);
   cursor: pointer;
@@ -113,6 +113,7 @@ ol {
   background-color: var(--color-accent-hover);
   border-color: var(--color-accent-hover);
   transform: translateY(-1px);
+  box-shadow: 0 0 15px rgba(178, 0, 0, 0.4);
 }
 
 .btn-ghost {
@@ -125,6 +126,7 @@ ol {
   background-color: var(--color-bg-alt);
   border-color: var(--color-accent);
   color: var(--color-accent);
+  box-shadow: 0 0 10px rgba(178, 0, 0, 0.2);
 }
 
 /* === Header / Nav === */
