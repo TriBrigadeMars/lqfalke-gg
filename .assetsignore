@@ -1,0 +1,7 @@
+*
+!*.html
+!assets/
+!assets/css/
+!assets/css/*.css
+!assets/js/
+!assets/js/*.js
