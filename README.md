@@ -81,6 +81,7 @@ links before going live:
 | Placeholder URL                           | Where to replace                                                                 |
 | ----------------------------------------- | -------------------------------------------------------------------------------- |
 | `https://www.youtube.com/@LQFalke`        | `index.html`, `writing.html`, `work.html`, `404.html` — nav link, cards, CTAs    |
+| `https://substack.com/@lqfalke`           | `index.html`, `writing.html`, `work.html`, `404.html` — nav link, cards, CTAs, footer |
 | `https://x.com/LQFalke`                   | Footer links in all HTML pages                                                   |
 | `mailto:hello@lqfalke.dev`                | Footer email link and subscribe-box email link in `work.html`                    |
 
