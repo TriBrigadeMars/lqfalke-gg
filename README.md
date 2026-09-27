@@ -82,6 +82,7 @@ links before going live:
 | ----------------------------------------- | -------------------------------------------------------------------------------- |
 | `https://www.youtube.com/@LQFalke`        | `index.html`, `writing.html`, `work.html`, `404.html` — nav link, cards, CTAs    |
 | `https://x.com/LQFalke`                   | Footer links in all HTML pages                                                   |
+| `https://bsky.app/profile/lqfalke.bsky.social` | Footer links in all HTML pages                                              |
 | `mailto:hello@lqfalke.dev`                | Footer email link and subscribe-box email link in `work.html`                    |
 
 ## Enabling GitHub Pages
