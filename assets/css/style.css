@@ -207,6 +207,10 @@ ol {
   color: var(--color-accent);
 }
 
+.nav-links a.btn {
+  color: var(--color-text);
+}
+
 /* Mobile nav */
 @media (max-width: 768px) {
 .nav-toggle {
